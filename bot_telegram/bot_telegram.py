@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import os
 
 storage = MemoryStorage()
-bot = Bot(token='6520241318:AAFf4KKr-pZEJvgQV199p4r2G_QXSaXJPvM')
+bot = Bot(token='Enter Your Token')
 dp = Dispatcher(bot, storage=storage)
 
 # Подключение к базе данных
